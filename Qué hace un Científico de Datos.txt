@@ -1,0 +1,21 @@
+¿Qué hace un científico de datos?
+Somos expertos en datos analíticos que poseemos habilidades técnicas para resolver problemas complejas y la 
+curiosidad de explorar qué problemas necesitan resolverse. 
+Como tal no existe una descripción definitiva para definir todo lo que podemos hacer pero por mencionar algunas,
+serían:
+	Recopilar grandes cantidades de datos revueltos y transformarlos a algo entendible y utilizable.
+	Resolver problemas de empresas o negocios empleando diferentes técnicas.
+	Trabajar con lenguajes como SAS, R y Python.
+	Saber estadística, bases de datos.
+	Dominar el aprendizaje máquina y analítica de datos y texto.
+	Lograr encontrar patrones en datos.
+Tenemos que tener ciertas cualidades como por ejemplo, ser creativo, saber comunicar para tener éxito en ideas,
+aprendizaje contijuo, resolver problemas, visión de negocio.
+Las funciones para un trabajo son:
+	Saber extraer datos
+	Limpiar los datos
+	Procesar los datos
+	Visualizarlos
+	Describir los datos
+	Predecir qué pasará
+	
