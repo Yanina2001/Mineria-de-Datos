@@ -1,0 +1,6 @@
+LINKS DE AYUDA:
+https://mlstudio.jaol.net/python-boxplot/
+https://statologos.com/regresion-lineal-simple-en-python/
+https://www.statology.org/q-q-plot-python/
+https://machinelearningparatodos.com/regresion-lineal-en-python/
+https://www.codificandobits.com/blog/tutorial-regresion-lineal-en-python/

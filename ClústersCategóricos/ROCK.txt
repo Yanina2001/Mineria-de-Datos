@@ -1,0 +1,2 @@
+https://www.inf.ed.ac.uk/teaching/courses/dme/studpres/Rock.pdf
+https://www.slideserve.com/elmo/rock-a-robust-clustering-algorithm-for-categorical-attributes
